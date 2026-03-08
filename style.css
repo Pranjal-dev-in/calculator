@@ -18,7 +18,7 @@ body{
 }
 .displayBox input{
     height: 80px;
-    width: 91%;
+    width: 85%;
     border: none;
     border-radius: 20px;
     outline: none;
@@ -71,4 +71,5 @@ body{
 }
 #percent{
     background-color: #5d5c61;
+
 }
